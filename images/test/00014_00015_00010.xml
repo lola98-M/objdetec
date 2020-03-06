@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>00014_00015_00010.png</filename>
+	<path>C:\Users\l.morin\Documents\images\test\00014_00015_00010.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>42</width>
+		<height>41</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>4</ymin>
+			<xmax>39</xmax>
+			<ymax>38</ymax>
+		</bndbox>
+	</object>
+</annotation>

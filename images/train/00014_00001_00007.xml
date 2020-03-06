@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00014_00001_00007.png</filename>
+	<path>C:\Users\l.morin\Documents\images\train\00014_00001_00007.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>38</width>
+		<height>38</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>6</ymin>
+			<xmax>36</xmax>
+			<ymax>34</ymax>
+		</bndbox>
+	</object>
+</annotation>
